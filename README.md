@@ -19,13 +19,14 @@ Tensorflow >= 2.0
 
 #   Dataset
 [The Multi-site T2-weighted MRI structured dataset](https://github.com/liuquande/SAML).
+[The CCH-TRUSPS dataset](https://doi.org/10.1016/j.bbe.2023.08.002).
 
 
 #   Contact
 mecusbans@gmail.com
 
 #   Acknowledgments
-The authors thank the patients whose data comprises this dataset (The CCH-TRUSPS dataset and The Multi-site T2-weighted MRI structured dataset) as well as the Chongqing University and Chongqing University Cancer Hospital and support.
+The authors thank the patients whose data comprises these datasets (The CCH-TRUSPS dataset and The Multi-site T2-weighted MRI structured dataset) as well as the Chongqing University and Chongqing University Cancer Hospital and support.
 
 
 #   Citation
