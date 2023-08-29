@@ -9,3 +9,6 @@ Prostate cancer is one of the most commonly diagnosed non-cutaneous malignant tu
 
 #  Segmentation results
 ![Stages_MRI_TRUS](https://github.com/S-domain/Multi-Stage-FCN/assets/104261511/67aaa4ed-4249-4ca2-b445-a5ff3c1ec2b7)
+
+#   Visual comparisons of the proposed method and other CNN-based methods
+![Comparism_TRUS](https://github.com/S-domain/Multi-Stage-FCN/assets/104261511/240f55aa-ce98-4017-a412-a3ee8c6987e6)
