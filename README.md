@@ -39,5 +39,15 @@ year={2023},
 publisher={Elsevier}
 }
 
-
-
+[Uploading @article{FENG2023586,
+title = {Multi-stage fully convolutional network for precise prostate segmentation in ultrasound images},
+journal = {Biocybernetics and Biomedical Engineering},
+volume = {43},
+number = {3},
+pages = {586-602},
+year = {2023},
+issn = {0208-5216},
+doi = {https://doi.org/10.1016/j.bbe.2023.08.002},
+url = {https://www.sciencedirect.com/science/article/pii/S0208521623000402},
+author = {Yujie Feng and Chukwuemeka Clinton Atabansi and Jing Nie and Haijun Liu and Hang Zhou and Huai Zhao and Ruixia Hong and Fang Li and Xichuan Zhou},
+}S0208521623000402.bib…]()
