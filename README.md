@@ -12,3 +12,23 @@ Prostate cancer is one of the most commonly diagnosed non-cutaneous malignant tu
 
 #   Visual comparisons of the proposed method and other CNN-based methods
 ![Comparism_TRUS](https://github.com/S-domain/Multi-Stage-FCN/assets/104261511/240f55aa-ce98-4017-a412-a3ee8c6987e6)
+
+#   Requirements
+Python >= 3.7 
+Tensorflow >= 2.0
+
+#   Dataset
+The Multi-site T2-weighted MRI structured dataset
+
+
+#   Contact
+mecusbans@gmail.com
+
+#   Acknowledgments
+The authors thank the patients whose data comprises this dataset (The CCH-TRUSPS dataset and The Multi-site T2-weighted MRI structured dataset) as well as the Chongqing University and Chongqing University Cancer Hospital and support.
+
+
+#   Citation
+
+
+
