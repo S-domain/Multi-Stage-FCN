@@ -6,3 +6,6 @@ Prostate cancer is one of the most commonly diagnosed non-cutaneous malignant tu
 
 #   The overall architecture of Multi-Stage FCN
 [model.pdf](https://github.com/S-domain/Multi-Stage-FCN/files/12461350/model.pdf)
+
+#  Segmentation results
+![Stages_MRI_TRUS](https://github.com/S-domain/Multi-Stage-FCN/assets/104261511/67aaa4ed-4249-4ca2-b445-a5ff3c1ec2b7)
