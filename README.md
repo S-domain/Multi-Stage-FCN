@@ -19,6 +19,7 @@ Tensorflow >= 2.0
 
 #   Dataset
 [The Multi-site T2-weighted MRI structured dataset](https://github.com/liuquande/SAML).
+
 [The CCH-TRUSPS dataset](https://doi.org/10.1016/j.bbe.2023.08.002).
 
 
@@ -30,4 +31,8 @@ The authors thank the patients whose data comprises these datasets (The CCH-TRUS
 
 
 #   Citation
+<details>
 Feng Y, Atabansi CC, Nie J, Liu H, Zhou H, Zhao H, Hong R, Li F, Zhou X. Multi-stage fully convolutional network for precise prostate segmentation in ultrasound images. Biocybernetics and Biomedical Engineering. 2023;43(4):586-602 
+
+
+</details>
