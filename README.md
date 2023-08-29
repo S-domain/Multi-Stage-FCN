@@ -31,16 +31,7 @@ The authors thank the patients whose data comprises these datasets (The CCH-TRUS
 
 
 #   Citation
-<details>
 Feng Y, Atabansi CC, Nie J, Liu H, Zhou H, Zhao H, Hong R, Li F, Zhou X. Multi-stage fully convolutional network for precise prostate segmentation in ultrasound images. Biocybernetics and Biomedical Engineering. 2023;43(4):586-602
- 
-@article{feng2023multi,
-title={Multi-stage fully convolutional network for precise prostate segmentation in ultrasound images},
-author={Feng, Yujie and Atabansi, Chukwuemeka Clinton and Nie, Jing and Liu, Haijun and Zhou, Hang and Zhao, Huai and Hong, Ruixia and Li, Fang and Zhou, Xichuan},
-journal={Biocybernetics and Biomedical Engineering},
-year={2023},
-publisher={Elsevier}
-}
-</details>
+
 
 
