@@ -30,13 +30,13 @@ The authors thank the patients whose data comprises this dataset (The CCH-TRUSPS
 
 #   Citation
 @article{feng2023multi,
-  title={Multi-stage fully convolutional network for precise prostate segmentation in ultrasound images},
-  author={Feng, Yujie and Atabansi, Chukwuemeka Clinton and Nie, Jing and Liu, Haijun and Zhou, Hang and Zhao, Huai and Hong, Ruixia and Li, Fang and Zhou, Xichuan},
-  journal={Biocybernetics and Biomedical Engineering},
-  volume={43},
-  pages={586–602},
-  year={2023},
-  publisher={Elsevier}
+title={Multi-stage fully convolutional network for precise prostate segmentation in ultrasound images},
+author={Feng, Yujie and Atabansi, Chukwuemeka Clinton and Nie, Jing and Liu, Haijun and Zhou, Hang and Zhao, Huai and Hong, Ruixia and Li, Fang and Zhou, Xichuan},
+journal={Biocybernetics and Biomedical Engineering},
+volume={43},
+pages={586–602},
+year={2023},
+publisher={Elsevier}
 }
 
 
